@@ -16,4 +16,4 @@ is returning: whether or not a station is currently allowing bike returns
 
 This program works with real world data. 
 
-The City of Toronto Bike Share website provides data about stations in a file format called JSON. Rent-a-Bike uses two of the City's bike share JSON files, one with station information and another with station status.
+The City of Toronto Bike Share website (https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/transportation/#84045f23-7465-0892-8889-7b6f91049b29) provides data about stations in a file format called JSON. Rent-a-Bike uses two of the City's bike share JSON files, one with station information and another with station status.
